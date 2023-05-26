@@ -4,4 +4,6 @@
 
 Important: All ordinals have been inscribed except the cursed ones.
 
+Read [License Terms](https://github.com/bitorcs/bitorcs-ordinals/blob/main/LICENSE)
+
 Copyright - BitOrcs 2023
